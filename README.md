@@ -24,7 +24,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Program
 ```
 
-DEVELOPED BY : m.sakthivel
+DEVELOPED BY : M.SAKTHIVEL
 REGISTER NO : 212222240088
 
 import math
