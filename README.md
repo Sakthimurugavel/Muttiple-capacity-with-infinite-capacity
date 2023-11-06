@@ -18,15 +18,16 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![output](https://github.com/Hemapriya-2004/Muttiple-capacity-with-infinite-capacity/blob/main/s1.png?raw=true)
+![image](https://github.com/Ragu-123/Muttiple-capacity-with-infinite-capacity/assets/113915622/a3ee248f-29df-4be9-ab56-c255ff6b7b5e)
+![image](https://github.com/Ragu-123/Muttiple-capacity-with-infinite-capacity/assets/113915622/70a05c48-a358-4b54-8a26-e445db423b76)
 
 
-## Program
-```
 
+
+## Program:
 DEVELOPED BY : M.SAKTHIVEL
 REGISTER NO : 212222240088
-
+```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -58,13 +59,13 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
 ```
 
 
-## Output
-![output](https://github.com/Hemapriya-2004/Muttiple-capacity-with-infinite-capacity/blob/main/s2.png?raw=true)
+## Output :
+![image](https://github.com/Ragu-123/Muttiple-capacity-with-infinite-capacity/assets/113915622/c55603bb-a465-45ce-bdb8-b6c8824ee3fd)
 
-## Result:
+
+## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
 
